@@ -1,0 +1,89 @@
+header {
+    background-color: #E5E5E5;
+}
+
+.container-nav a {
+    text-decoration: none;
+    color:#000000;
+    display: inline-block;
+    font-size: 14px;
+}
+ 
+.container-nav {
+    font-size: 0;
+    width: 360px;
+    padding: 17px 0;
+}
+
+.container-nav a:not(:last-child) {
+    padding-right: 30px;
+}
+
+.left-float {
+    float: left;
+}
+
+.logo {
+ background-color: white;
+ border-bottom: #EFEFEF;
+}
+
+.logo img {
+    display: block;
+    padding: 20px 0;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px; 
+  color: #F13C6E;
+  padding: 41px 0px 41px 20px;
+  margin: 0;
+  letter-spacing: 0.1em; 
+}
+
+.right {
+    float:right;
+}
+
+.tel {
+    padding:51px 40px 51px 0px;
+    color:#000000;
+    text-decoration: none;
+}
+
+button {
+    width: 170px;
+    padding: 12px 26px 13px 27px;
+    border: 2px solid #F13C6E;
+    margin: 40px 0;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.container-nav-2 {
+    font-size: 0;
+    width: 584px;
+    padding: 30px 0;
+}
+
+.container-nav-2 a {
+    text-decoration: none;
+    color:#000000;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.navigation-2 {
+    background-color: white;
+
+}
+
+.container-nav-2 a:not(:last-child) {
+    padding-right: 40px;
+}
+
+.border-grey {
+    border-bottom: 1px solid #EFEFEF;
+}

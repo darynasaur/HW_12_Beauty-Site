@@ -1,0 +1,15 @@
+.impuls {
+    background-color: #E5E5E5;
+    
+}
+
+.images img {
+    border: 1px solid #EFEFEF;
+    padding: 35px 65px;
+    background-color: #FFFFFF;
+}
+
+.impuls .container .images {
+    font-size: 0px;
+}
+

@@ -1,0 +1,75 @@
+.popular .row {
+    font-size: 0px;
+    margin: 0px -15px;
+}
+
+.popular a {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    text-decoration: none;
+    color: #828282;
+}
+
+.popular h3 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140.62%;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #EFEFEF;
+    margin: 0px;
+}
+
+.popular .col-3 {
+    display: inline-block; 
+    padding: 0px 15px;
+}
+
+.popular {
+    border-bottom: 1px solid #EFEFEF;
+}
+
+.popular .card {
+    padding: 35px 0px;
+}
+
+.popular .popular-container {
+    padding:20px 0px;
+}
+
+
+.connections {
+    background-color: white;
+    border-bottom: #EFEFEF;
+}
+
+.fa-brands {
+    color:#F13C6E;
+    width: 50px;
+    height: 50px;
+    font-size:30px;
+    margin: 40px 0px;
+    border: 3px solid #F13C6E;
+    border-radius: 100px;
+    text-align: center;
+    padding:7px 0px;
+    margin-right: 10px;
+}
+
+
+.policy {
+    background-color:  #EFEFEF;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.policy .clear-fix {
+    padding:25px 0px;
+    color:#828282;
+}
+
+.policy .right {
+    color:#828282;
+    text-decoration: none;
+}

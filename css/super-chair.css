@@ -1,0 +1,38 @@
+.super-chair {
+    background-image: url("../images/super-chair.png");
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 604px;
+    background-size: cover;
+}
+
+.super-chair button{
+    color:#FFFFFF;
+    border: 2px solid #FFFFFF;
+    background-color:#F13C6E;
+    margin-bottom:182px;
+    margin-top: 20px
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color:#FFFFFF;
+    padding: 192px 0 50px 0;
+    
+}
+
+.super-chair p {
+    color:#FFFFFF;
+    font-size: 14px;
+    line-height: 20px;
+    max-width:
+    max-height:
+    overflow: hidden;
+}
+
+.super-chair .super-chair__container {
+    max-width: 253px;
+}

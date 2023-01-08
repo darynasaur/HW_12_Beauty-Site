@@ -1,0 +1,99 @@
+
+
+.bonuses .col-6 {
+    font-size: 0px;
+    display: inline-block;
+    padding: 0 15px;
+}
+
+.bonuses .row {
+    margin: 0px -15px;
+    font-size:0px;
+    padding-bottom: 99px;
+}
+
+.bonuses .card__bonuses-description {
+    display: inline-block;
+    max-width: 196px;
+}
+
+.bonuses .card__bonuses-description h3 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin:0px;
+    padding-bottom: 25px;
+    max-height: 46px;
+    max-width: 304px;
+    overflow: hidden;
+}
+   
+.bonuses .card__bonuses-description p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-bottom: 25px;
+    max-height: 65px;
+    max-width:196px;
+    overflow: hidden;
+}
+
+
+
+.bonuses {
+    background-color: #E5E5E5;
+}
+
+.bonuses .card__bonuses-description input {
+margin: 0px;
+
+}
+
+input.email::-webkit-input-placeholder {
+    color: #C4C4C4;
+    opacity:1;
+    text-align: center;
+}
+
+.bonuses .email {
+    border: 2px solid #F13C6E;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    border-radius: 40px;
+    padding:9px 10px;
+}
+
+.store-map {
+    display: block;
+    color: white;
+    background-color: #F13C6E;
+    border: 2px solid white;
+    padding: 9px 26px 9px 27px;
+    cursor: pointer;
+    border-radius: 40px;
+    text-decoration: none;
+    width: 160px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 16px;
+}
+
+.bonuses .card {
+    padding: 35px 40px;
+    background-color: #F13C6E;
+}
+
+.bonuses img {
+    float:right;
+}
+
+.bonuses .second-picture {
+    padding:18px 0px;
+}
+
+.max-height {
+    max-height: 196px;
+}
