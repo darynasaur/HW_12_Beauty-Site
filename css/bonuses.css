@@ -81,6 +81,11 @@ input.email::-webkit-input-placeholder {
     line-height: 16px;
 }
 
+.store-map:hover {
+    font-weight: 700;
+}
+
+
 .bonuses .card {
     padding: 35px 40px;
     background-color: #F13C6E;

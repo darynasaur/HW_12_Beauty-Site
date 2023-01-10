@@ -9,13 +9,18 @@ header {
     font-size: 14px;
 }
  
+li {
+    display: inline-block;
+}
+
+
 .container-nav {
     font-size: 0;
     width: 360px;
     padding: 17px 0;
 }
 
-.container-nav a:not(:last-child) {
+.container-nav li:not(:last-child) {
     padding-right: 30px;
 }
 
@@ -62,9 +67,15 @@ button {
     cursor: pointer;
 }
 
+button:hover{
+    transform: scale(1.05);
+    transition-duration: 0.2s;
+
+}
+
 .container-nav-2 {
     font-size: 0;
-    width: 584px;
+    text-align: center;
     padding: 30px 0;
 }
 
@@ -75,12 +86,17 @@ button {
     font-size: 16px;
 }
 
+header a:hover {
+    color:#F13C6E;
+}
+
+
 .navigation-2 {
     background-color: white;
 
 }
 
-.container-nav-2 a:not(:last-child) {
+.container-nav-2 li:not(:last-child) {
     padding-right: 40px;
 }
 

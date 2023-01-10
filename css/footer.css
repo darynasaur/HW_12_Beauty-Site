@@ -56,6 +56,13 @@
     margin-right: 10px;
 }
 
+.icons a:hover .fa-brands {
+    border: 3px solid  black;
+    color:black;
+    transform: scale(1.2);
+    transition-duration: 0.2s;
+}
+
 
 .policy {
     background-color:  #EFEFEF;
@@ -72,4 +79,25 @@
 .policy .right {
     color:#828282;
     text-decoration: none;
+}
+
+.popular li {
+    display: block;
+}
+
+.connections ul {
+    margin:0px;
+    padding:0px;
+}
+
+.connections .tel {
+    padding: 56px 40px 55px 0px;
+}
+
+.connections button {
+    margin: 43px 0px;
+}
+
+footer a:hover {
+    color: #F13C6E;
 }

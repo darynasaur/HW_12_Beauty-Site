@@ -13,7 +13,7 @@
     font-size: 24px;
     line-height: 28px;  
     margin:0px;
-    padding: 80px 0 38px 0;
+    padding: 80px 0 23px 0;
 }
 
 .special-offers {
@@ -33,6 +33,7 @@
     background-color: #FFFFFF;
     text-align: center;
     padding: 25px 30px 45px 30px;
+    margin: 15px 0px;
 }
 
 .special-offers .card img {
@@ -72,5 +73,9 @@
 }
 
 .special-offers .row {
-    padding-bottom: 100px;
+    padding-bottom: 85px;
+}
+
+.special-offers .card .card__button:hover {
+    border: 3px solid #F13C6E;
 }
